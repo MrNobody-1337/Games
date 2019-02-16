@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Tic tac toe.cpp
+c:\users\1337\source\repos\tic tac toe\tic tac toe\tic tac toe.cpp(51): warning C4715: winner: значение возвращается не при всех путях выполнения
+  Tic tac toe.vcxproj -> C:\Users\1337\source\repos\Tic tac toe\Debug\Tic tac toe.exe

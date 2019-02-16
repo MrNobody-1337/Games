@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Pong.cpp
+c:\users\1337\source\repos\pong\pong\pong.cpp(105): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pong.vcxproj -> C:\Users\1337\source\repos\Pong\Debug\Pong.exe
